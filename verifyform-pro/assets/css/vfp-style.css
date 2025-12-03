@@ -1,0 +1,17 @@
+#vfp_textarea_value.large-text {
+    width: 380px;
+    max-width: 100%;
+}
+
+.btn-pagination-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    gap: 10px;
+    align-items: center;
+}
+
+.widefat.leads-table {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
